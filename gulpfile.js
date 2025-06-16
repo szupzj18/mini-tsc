@@ -21,3 +21,4 @@ exports.default = defaultTask;
 
 exports.build = compileTypeScript;
 exports.watch = watchFiles;
+exports.test = test;
