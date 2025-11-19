@@ -54,6 +54,7 @@
 - Extend the lexer with additional punctuation (`{}`, `()`) and literal types (boolean, template strings).
 - Add an emitter test that consumes a mocked AST to lock in formatting decisions early.
 - Implement a minimal type checker pass that validates identifier re-declarations or ensures literals align with declared annotations.
+- Track the broader backlog in [`TODO.md`](./TODO.md) and pick up the next bite-sized item.
 
 ## Contributing
 1. Fork and clone the repo.
